@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Cristian Ortega Gonzalez
 
-Curso: 1DAW o 2DAW
+Curso: 2DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: cristian.ortega3@educa.madrid.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: Cristianortegaa
 
